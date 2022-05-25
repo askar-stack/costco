@@ -40,23 +40,35 @@ While Supplies Last
 
   
     <mj-section background-color="white">
+      <mj-column>
 
-      <mj-column background-color="#6F5060">
-<mj-text align="center"  font-size="20px" font-family="Helvetica" color="white">TV's</mj-text>
-      </mj-column>
+<mj-table>
 
-            <mj-column background-color="black">
-<mj-text align="center" font-size="20px" font-family="Helvetica" color="white">Backyard</mj-text>
-      </mj-column>
 
-            <mj-column>
-<mj-text>Grocery & Household </mj-text>
-      </mj-column>
+      <tr>
+<td style="background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+    TV's
+    </td>
 
-            <mj-column>
-<mj-text>Mattresses</mj-text>
+   <td style="background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+   Backyard
+    </td> 
+
+      <td style="background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      Grocery & Household
+    </td> 
+
+      <td style="background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      Mattrsses
+    </td> 
+
+</mj-table>
+
+
       </mj-column>
     </mj-section>
+
+
 
   </mj-body>
 </mjml>
