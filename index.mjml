@@ -17,13 +17,27 @@
 
 
 <mj-hero mode="fixed-height" 
-background-url="https://mobilecontent.costco.com/live/resource/img/22w09204/d-email-hero-22w09204-memorial-mattress.jpg" background-color="white" height="260px"></mj-hero>
+background-url="https://mobilecontent.costco.com/live/resource/img/22w09204/d-email-hero-22w09204-memorial-mattress.jpg" background-color="white" height="315px"></mj-hero>
 
 <mj-hero mode="fixed-height" 
-background-url="https://mobilecontent.costco.com/live/resource/img/2210116/d-2210116-email-hero-lower.gif" background-color="white" height="300px"></mj-hero>
-  
+background-url="https://mobilecontent.costco.com/live/resource/img/2210116/d-2210116-email-hero-lower.gif" background-color="white" height="315px">
 
+<mj-text font-size="16px" font-family="Helvetica" color="white" padding-top="280px" padding-left="185px">
+While Supplies Last
+
+<mj-text font-weight="600" font-family="Helvetica" color="white">| Shop Now</mj-text>
+
+</mj-text>
+
+</mj-hero>
   
+    <mj-section background-color="#513450">
+      <mj-column>
+<mj-text font-size="28px" font-family="Helvetica" color="white" align="center">Shop Current Deals</mj-text"
+
+      </mj-column>
+    </mj-section>
+
   
   </mj-body>
 </mjml>
