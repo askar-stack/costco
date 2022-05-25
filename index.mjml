@@ -45,20 +45,20 @@ While Supplies Last
 <mj-table>
 
 
-      <tr>
-<td style="background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      
+<td style="border-right:10px solid #1972d2; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
     TV's
     </td>
 
-   <td style="background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+   <td style="width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
    Backyard
     </td> 
 
-      <td style="background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
       Grocery & Household
     </td> 
 
-      <td style="background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
       Mattrsses
     </td> 
 
