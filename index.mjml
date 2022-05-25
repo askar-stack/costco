@@ -1,0 +1,18 @@
+<mjml>
+  <mj-body>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image width = "134px" src="https://mobilecontent.costco.com/live/resource/img/static-email/costcodotcom-logo.png"></mj-image>
+        
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="red">
+      <mj-column>
+        <mj-text font-family="Helvetica" color="white" font-size="25px" font-weight="900" align="center">Starts Today, 5/22/22!</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
