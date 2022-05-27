@@ -6,4 +6,5 @@ achieving using MJML. THe source is here: http://click.online.costco.com/dm?id=8
 The actual email was much longer and repetitive. I shortened it a bit to save time.
 
 I initially tried to use mjml columns for the Shope Current section which was a struggle. I found out about tables
-and I'm glad I did. 
+and I was good to go after that. Using borders to give the spaced out look.
+
