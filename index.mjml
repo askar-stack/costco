@@ -8,7 +8,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="red">
+    <mj-section background-color="#c72828">
       <mj-column>
         <mj-text font-family="Helvetica" color="white" font-size="25px" font-weight="900" align="center">Starts Today, 5/22/22!</mj-text>
       </mj-column>
@@ -16,10 +16,10 @@
 
 
 
-<mj-hero mode="fixed-height" 
+<mj-hero mode="fixed-height" padding="10px"
 background-url="https://mobilecontent.costco.com/live/resource/img/22w09204/d-email-hero-22w09204-memorial-mattress.jpg" background-color="white" height="315px"></mj-hero>
 
-<mj-hero mode="fixed-height" 
+<mj-hero mode="fixed-height" padding="10px"
 background-url="https://mobilecontent.costco.com/live/resource/img/2210116/d-2210116-email-hero-lower.gif" background-color="white" height="315px">
 
 <mj-text font-size="16px" font-family="Helvetica" color="white" padding-top="280px" padding-left="185px">
@@ -46,19 +46,19 @@ While Supplies Last
 
 
       
-<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
+<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#6f5060; font-size:22px; font-family: Helvetica; color: white;" >
     TV's
     </td>
 
-   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#084f6c; font-size:20px; font-family: Helvetica; color: white;" >
    Backyard
     </td> 
 
-      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#6f5060; font-size:20px; font-family: Helvetica; color: white;" >
       Grocery & Household
     </td> 
 
-      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#084f6c; font-size:20px; font-family: Helvetica; color: white;" >
       Mattresses
     </td> 
 
@@ -77,19 +77,19 @@ While Supplies Last
 
 
       
-<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
+<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#6f5060; font-size:22px; font-family: Helvetica; color: white;" >
     Women's Apparel
     </td>
 
-   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#084f6c; font-size:20px; font-family: Helvetica; color: white;" >
        Men's Apparel
     </td> 
 
-      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#6f5060; font-size:20px; font-family: Helvetica; color: white;" >
       Home & Kitchen
     </td> 
 
-      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:#084f6c; font-size:20px; font-family: Helvetica; color: white;" >
       Living Room Furniture
     </td> 
 
@@ -98,6 +98,33 @@ While Supplies Last
 
       </mj-column>
     </mj-section>
+
+
+<mj-section background-color="white">
+<mj-column>
+
+<mj-text>
+Not all items are available at all Costco locations and selection and pricing may vary. Prices in Alaska and Hawaii may be higher than the advertised price. Items shipped to Alaska or Hawaii will include an additional shipping and handling fee. Reflects the customer average rating as of 5/22/2022. See Costco.com for the most current information.
+</mj-text>
+
+<mj-text>
+Most online instant coupons at costco.com are manufacturer's coupons, which will automatically be applied at checkout. See specific item page for promotion valid dates. State sales tax may be due on the pre-discounted price of the item when purchased using an online coupon. These taxes, if any, are in addition to the amount that you are paying for the product.
+</mj-text>
+
+<mj-text>
+In the past you provided Costco with your email address [email@email.COM]. Occasionally, you will receive brief advertising announcements regarding special items and services. If you no longer want to receive these advertisements, please click unsubscribe. Please DO NOT CLICK REPLY, as the email will not be read.
+</mj-text>
+
+<mj-text>
+To contact us please click here.
+Costco Wholesale, Customer Service | P.O. Box 34535 -- Seattle, WA 98124-1535
+© 1998-2022 Costco Wholesale Corporation. All rights reserved. Your Privacy Rights   Terms and Conditions
+
+</mj-text>
+
+</mj-section>
+
+</mj-column>
 
   </mj-body>
 </mjml>
