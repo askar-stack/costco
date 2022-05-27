@@ -46,20 +46,20 @@ While Supplies Last
 
 
       
-<td style="border-right:10px solid #1972d2; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
+<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
     TV's
     </td>
 
-   <td style="width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
    Backyard
     </td> 
 
-      <td style="width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
       Grocery & Household
     </td> 
 
-      <td style="width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
-      Mattrsses
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      Mattresses
     </td> 
 
 </mj-table>
@@ -69,6 +69,35 @@ While Supplies Last
     </mj-section>
 
 
+
+    <mj-section background-color="white">
+      <mj-column padding="5px">
+
+<mj-table>
+
+
+      
+<td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:22px; font-family: Helvetica; color: white;" >
+    Women's Apparel
+    </td>
+
+   <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+       Men's Apparel
+    </td> 
+
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:black; font-size:20px; font-family: Helvetica; color: white;" >
+      Home & Kitchen
+    </td> 
+
+      <td style="border-right:10px solid #ffffff; width:162px; height: 162px; text-align: center; background-color:red; font-size:20px; font-family: Helvetica; color: white;" >
+      Living Room Furniture
+    </td> 
+
+</mj-table>
+
+
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 </mjml>
