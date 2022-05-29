@@ -3,7 +3,7 @@
 
     <mj-section background-color="white">
       <mj-column>
-        <mj-image width = "134px" src="https://mobilecontent.costco.com/live/resource/img/static-email/costcodotcom-logo.png"></mj-image>
+        <mj-image href="https://www.costco.com/" width = "134px" src="https://mobilecontent.costco.com/live/resource/img/static-email/costcodotcom-logo.png"></mj-image>
         
       </mj-column>
     </mj-section>
@@ -25,7 +25,12 @@ background-url="https://mobilecontent.costco.com/live/resource/img/2210116/d-221
 <mj-text font-size="16px" font-family="Helvetica" color="white" padding-top="280px" padding-left="185px">
 While Supplies Last
 
-<mj-text font-weight="600" font-family="Helvetica" color="white">| Shop Now</mj-text>
+<mj-text font-weight="600" font-family="Helvetica" color="white">
+| 
+<a style="color: white;" 
+href="https://click.online.costco.com/t?r=2&c=169108&l=121&ctl=7EC234:86516FADEFF0C9DF0A662CE060F1A09386BF5533976B1DCA&"> Shop Now
+>
+</mj-text>
 
 </mj-text>
 
